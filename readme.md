@@ -1,4 +1,4 @@
-# Country-Codes.CSV
+# Country-Codes
 
 This is a complete list of the world's countries and their abbreviations.
 
