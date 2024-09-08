@@ -1,4 +1,7 @@
 # Country-Codes
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 
 This is a complete list of the world's countries and their abbreviations.
 
